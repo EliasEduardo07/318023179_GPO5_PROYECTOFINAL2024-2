@@ -1,0 +1,70 @@
+newmtl globos:pasted__phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grosa.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:pasted__phong17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grosa.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:pasted__phong17SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grosa.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:pasted__phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gamarillo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grosa.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:phong18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grojo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00
+newmtl globos:phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gamarillo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMap_(1).png
+Ns 18.00

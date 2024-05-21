@@ -1,0 +1,28 @@
+newmtl modelodos:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tblanco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Map__10_Normal_Bump.jpg
+Ns 18.00
+newmtl modelodos:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tejacafe.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl modelodos:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tcafe.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

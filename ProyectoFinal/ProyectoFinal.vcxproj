@@ -36,7 +36,7 @@
     <None Include="Shaders\modelLoading.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="318023179-ProyectoFinal-GPO13.cpp" />
+    <ClCompile Include="318023179-ProyectoFinal-GPO05.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
